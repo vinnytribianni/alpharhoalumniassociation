@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/alpharhoalumniassociation/static/css/main.f855e6bc.css",
-    "main.js": "/alpharhoalumniassociation/static/js/main.82382c9d.js",
-    "static/js/453.743a6f1d.chunk.js": "/alpharhoalumniassociation/static/js/453.743a6f1d.chunk.js",
-    "static/media/logo.svg": "/alpharhoalumniassociation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/alpharhoalumniassociation/static/css/main.b28e12f6.css",
+    "main.js": "/alpharhoalumniassociation/static/js/main.ff837b27.js",
+    "static/js/453.682e2e8a.chunk.js": "/alpharhoalumniassociation/static/js/453.682e2e8a.chunk.js",
+    "static/media/RhoBoat20.pdf": "/alpharhoalumniassociation/static/media/RhoBoat20.3a4e72c0cc9f29ea42dc.pdf",
+    "static/media/lodge_day.jpg": "/alpharhoalumniassociation/static/media/lodge_day.292c583540a4f3da02c5.jpg",
+    "static/media/golf.jpg": "/alpharhoalumniassociation/static/media/golf.e7d528b5762a4fa04538.jpg",
+    "static/media/RhoBoat22-23.pdf": "/alpharhoalumniassociation/static/media/RhoBoat22-23.d6af0506ae7ac2cb5a3a.pdf",
+    "static/media/RhoBoat23-24.pdf": "/alpharhoalumniassociation/static/media/RhoBoat23-24.45d89615feeaaa14c405.pdf",
+    "static/media/Badge.png": "/alpharhoalumniassociation/static/media/Badge.7148b3b0cda5d4b6e27a.png",
+    "static/media/bones.jpeg": "/alpharhoalumniassociation/static/media/bones.e7b41ebbf4b19dd8b8d0.jpeg",
+    "static/media/chi_psi.jpeg": "/alpharhoalumniassociation/static/media/chi_psi.fd4b11dc0ea73d0295a3.jpeg",
     "index.html": "/alpharhoalumniassociation/index.html",
-    "main.f855e6bc.css.map": "/alpharhoalumniassociation/static/css/main.f855e6bc.css.map",
-    "main.82382c9d.js.map": "/alpharhoalumniassociation/static/js/main.82382c9d.js.map",
-    "453.743a6f1d.chunk.js.map": "/alpharhoalumniassociation/static/js/453.743a6f1d.chunk.js.map"
+    "main.b28e12f6.css.map": "/alpharhoalumniassociation/static/css/main.b28e12f6.css.map",
+    "main.ff837b27.js.map": "/alpharhoalumniassociation/static/js/main.ff837b27.js.map",
+    "453.682e2e8a.chunk.js.map": "/alpharhoalumniassociation/static/js/453.682e2e8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.82382c9d.js"
+    "static/css/main.b28e12f6.css",
+    "static/js/main.ff837b27.js"
   ]
 }
